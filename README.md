@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amsrule
+- 👋 Hi, I’m Mohammed Amer
 - 👀 I’m interested in being a tech-savvy 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on python 
